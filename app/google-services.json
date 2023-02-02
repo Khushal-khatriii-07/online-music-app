@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "548904539579",
+    "firebase_url": "https://online-music-player-577ef-default-rtdb.firebaseio.com",
+    "project_id": "online-music-player-577ef",
+    "storage_bucket": "online-music-player-577ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548904539579:android:9f64d41ddf1b3d0b8a209e",
+        "android_client_info": {
+          "package_name": "com.example.online_music_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548904539579-495f0i935b8jg8s3vs0p9pfrlou2ed0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsTBhfGygY8lzNo7Zuah1MVHFkbSp4yO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548904539579-495f0i935b8jg8s3vs0p9pfrlou2ed0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548904539579:android:a7bb56d49b1a6c978a209e",
+        "android_client_info": {
+          "package_name": "com.example.onlinemusicappclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548904539579-495f0i935b8jg8s3vs0p9pfrlou2ed0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsTBhfGygY8lzNo7Zuah1MVHFkbSp4yO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548904539579-495f0i935b8jg8s3vs0p9pfrlou2ed0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548904539579:android:c60ef56cf684e1018a209e",
+        "android_client_info": {
+          "package_name": "com.khatridroitd.musicapplication2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548904539579-495f0i935b8jg8s3vs0p9pfrlou2ed0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsTBhfGygY8lzNo7Zuah1MVHFkbSp4yO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548904539579-495f0i935b8jg8s3vs0p9pfrlou2ed0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OnlineMusicAppClient</string>
+    <string name="songs_title">songs title</string>
+    <string name="title">title</string>
+    <string name="todo">TODO</string>
+    <string name="artiste">Artiste</string>
+</resources>
